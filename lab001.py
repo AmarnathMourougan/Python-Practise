@@ -1,5 +1,4 @@
-print("Hello World!")
-def printName():
-    name = input ("Enter the value: ")
-    print("Your name is: "+name)
-printName()
+class lap01:
+    def helloWorld():
+        print ("Hello World!")
+    helloWorld()
