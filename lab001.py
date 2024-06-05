@@ -1,5 +1,5 @@
 class lap01:
-    # Created the method to print the statement
+    # Created the method to print the hello statement
     def helloWorld(self):
         #print hello world!
         print ("Hello World!")
