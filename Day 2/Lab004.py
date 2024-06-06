@@ -1,9 +1,9 @@
 Name = "Amarnath"
 print(type(Name))
 
-Name="""Amar"""
+Name = """Amar"""
 print(type(Name))
 
-Name='Amar'
+Name = 'Amar'
 print(type(Name))
 

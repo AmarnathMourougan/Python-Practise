@@ -7,5 +7,5 @@ print(type(pi))
 Age = 25
 print(type(Age))
 
-Age= "Twenty Five"
+Age = "Twenty Five"
 print(type(Age))
