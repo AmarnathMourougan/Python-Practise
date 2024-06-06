@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbb7ccf8-df7c-4188-98c1-ff870cff6f69" name="Changes" comment="Hello world program" />
+    <list default="true" id="cbb7ccf8-df7c-4188-98c1-ff870cff6f69" name="Changes" comment="Hello world program">
+      <change afterPath="$PROJECT_DIR$/Day 2/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 2/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 2/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 2/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,27 +28,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AmarnathMourougan/Python-Practise.git",
-    "accountId": "1935948d-4bfd-42d6-a335-4217887ca220"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AmarnathMourougan/Python-Practise.git&quot;,
+    &quot;accountId&quot;: &quot;1935948d-4bfd-42d6-a335-4217887ca220&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2hLoEabgeyu70wTarDd9dwmnsXS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
     "Python.lab001.executor": "Run",
+    "Python.lab002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
